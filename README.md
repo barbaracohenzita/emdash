@@ -1,5 +1,9 @@
 [![Emdash](https://emdash.ai/images/embed.png?)](https://emdash.ai)
 
+# Emdash
+
+[![Emdash](https://emdash
+
 # [Emdash](https://emdash.ai)
 
 > Emdash uses AI to organize text snippets so you can actually remember & learn
